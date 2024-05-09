@@ -1,3 +1,5 @@
 [
-    "init.js"
+    "init.js",
+    "configBase.js",
+    "configs.js"
 ]
